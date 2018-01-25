@@ -1,6 +1,2 @@
 # lcomb_SCIAEngineer-VBA-Escel
-load combination generator for Scia Engineer
-import load cases form Scia Engineer via XML to excel
-set up the combination rules in GR sheet
-make the combinations
-export the combination rules to XML and import it to the Scia Engineer
+Load combination generator for Scia Engineer. Import load cases form Scia Engineer via XML (written by SCIA emlpoyee) to excel sheet. Set up the combination rules in GR sheet. Make the combination rules and then export the combination rules to XML and import it to the Scia Engineer. The load cases and load groups should be prepared in Scia Engineer model. The tool works with these data from Scia Engineer model.
